@@ -5,7 +5,7 @@
 
 The Taubaté Pregnant is having her kids soon. The problem is that they are too many and she needs a system to register them. Furthermore, this is not her only pregnancy, she is planning to get pregnant again.
 
-Since they are too many, you need to create a software where the doctor can register each of them, regardless the order it is inserted, and that may help her further, for instance, when she needs to call the kids for lunch, not to forget anyone.
+Since they are too many, you need to create a software where the doctor can register each of them, regardless the order it is inserted. Your software should help her further, for instance, when she needs to call the kids for lunch to don't forget anyone.
 
 ![Edu Guedes](https://pbs.twimg.com/media/Ch462kjWUAAtgZt.jpg)
 
@@ -79,7 +79,7 @@ Maximum 100 points divided by:
   * Copied assignment gives zero score for both (except GitHub),take care of your source code;
   * In case of copy of a GitHub public repository, the date of the commit will be considered, the latest commit will be considered plagiarism;
   * Github delivered assignments will have the code considered until the last commit prior the deadline. (in case of none, the mark is zero);
-  * Do not send anything else then folders and .java files;
+  * Do not send anything else then folders and .java files (or GitHub files if this is the case);
   * You can pre-send the code until 2 days prior deadline to ask for feedbacks;
   * Instructions for sending will be available on the Canvas assignment;
   * Assignments containing IDE imports or IDE projects will not be considered.
