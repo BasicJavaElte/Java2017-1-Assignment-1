@@ -55,16 +55,13 @@ The class Gift has no strict implementation rules, but, you should follow the co
 
 ## Constraints
   * The dates shown to the user should always be day/month/year Hour:Minutes, day and month 2 digits, year 4 digits, followed by hour and minutes;
-  * Do not send anything else then folders and .java files;
   * The software should already have some objects pre-filled (some persons and gifts)
-  * You can pre-send the code until 2 days prior deadline to ask for feedbacks;
-  * Github delivered assignments will have the code considered until the last commit prior the deadline. (in case of none, the mark is zero);
   * The Class containing the main must be called **BabyRegister**;
-  * Assignments containing IDE imports or IDE projects will not be considered.
+  * The other classes should be Baby and Gift;
+
 
 ## Libraries
   The following but not restricted to:
-
   * Use Java.text.SimpleDateFormat for the dates formatting and parsing (if necessary)
   * You can use the Java.util.ArrayList for storing the objects
 
@@ -74,13 +71,23 @@ Maximum 100 points divided by:
     * Syntax error removes 100% of the 20 points;
     * Semantic mistakes remove up to 50%;
     * Convention and Lexical mistakes remove up to 50%;
+  * Not following the given instructions or naming, cancel the points.  
 
-  * Not following the given model or naming, cancel the points.
+## Rules
+  * Individual Assignment;
+  * Except from the Java default libraries, all the sent code MUST BE YOURS, plagiarism will be graded with zero and may be subject of sanctions given by ELTE regulations;
+  * Copied assignment gives zero score for both (except GitHub),take care of your source code;
+  * In case of copy of a GitHub public repository, the date of the commit will be considered, the latest commit will be considered plagiarism;
+  * Github delivered assignments will have the code considered until the last commit prior the deadline. (in case of none, the mark is zero);
+  * Do not send anything else then folders and .java files;
+  * You can pre-send the code until 2 days prior deadline to ask for feedbacks;
+  * Instructions for sending will be available on the Canvas assignment;
+  * Assignments containing IDE imports or IDE projects will not be considered.
 
 
 ## Extra Points
-  * Delivering on GitHub (public or private repo), sending the link via e-mail until the deadline. (+10%)
-  * One list of gifts for each kid (with the options of giving the gifts as well)
+  * Delivering on GitHub (public or private repo), sending the link via canvas. (+10%)
+  * Put the list of gifts inside each baby and make the management inside the Baby class. (+10%)
 
 ## DATES
   * **Delivery 29th of October before midnight**
