@@ -92,4 +92,4 @@ Maximum 100 points divided by:
 ## DATES
   * **Delivery 6th of November before midnight**
   * Consultation session: 24th October from 14 to 16 (same lab as the classes).
-  * Last pre-send date is 4th of October.
+  * Last pre-send date is 4th of November.
