@@ -90,6 +90,6 @@ Maximum 100 points divided by:
   * Put the list of gifts inside each baby and make the management inside the Baby class. (+10%)
 
 ## DATES
-  * **Delivery 29th of October before midnight**
+  * **Delivery 6th of November before midnight**
   * Consultation session: 24th October from 14 to 16 (same lab as the classes).
-  * Last pre-send date is 27th of October.
+  * Last pre-send date is 4th of October.
